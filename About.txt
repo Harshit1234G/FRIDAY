@@ -1,0 +1,11 @@
+FRIDAY - An extremely advanced AI
+Full form - Female Replacement Intelligent Digital Assistant Youth.
+Creator - Harshit Kumawat.
+It works on voice command!
+It can perform following task:
+1. Search anything on google 
+2. Open any website 
+3. Search anything on wikipedia
+4. Can reply to some user statements
+5. Can open a specified file by voice command
+and a lot of other stuff...

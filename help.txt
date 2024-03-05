@@ -1,0 +1,35 @@
+FRIDAY works on voice command.
+
+You have to give voice commands to her and she will perform the specific task.
+
+Voice Commands:
+1. 'Hello', 'Sorry', 'Thanks', etc. are some basic commands.
+
+2. And you can ask some questions like 'who are you?', etc.
+
+3. You could ask her about your name (initially 'stranger') , you can change your name by simply saying 'change my name'.
+
+4. Search anything on wikipedia, example: Shahrukh khan wikipedia. And she will say you 2 lines about Shahrukh khan from wikipedia.
+
+5. 'open google', 'open youtube', etc can be used to open specific web.
+
+6. The 'google search' command will search anything on google, example: google search python.org will search python.org on google.
+
+7. The 'open translator' command will open the google translator.
+
+8. You could ask about time and date.
+
+9. You can start a music (random music of specified path) and she will start the music.(next music command for)
+
+10. To open any system file like word or excel say 'open <|file name|>'
+
+11. "news" command in sentence will start the news, she will tell all the breaking news of India.
+
+12. And the most amazing feature: 'text to speech' rest you can know about it by using it!!!
+
+13. If you give her a command which she don't understand then she will search it on google (she will ask you before searching).
+
+In future another features will be introduced!
+Use FRIDAY wisely!   
+
+NOTE: Every command which is shown above, can be used in any sentence and friday will understand.
